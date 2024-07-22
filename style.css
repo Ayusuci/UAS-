@@ -96,12 +96,6 @@ h1 span::before{
     }
 }
 
-@media (max-width: 768px) {
-    .container {
-        flex-direction: column;
-    }
-}
-
 .box_pendidikan{
     color: #4d4d4d;
     margin-top: 20px;
